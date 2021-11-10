@@ -19,7 +19,7 @@ main{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
 } 
-
+/* 
 nav ul{
     list-style: none;
     width: 800px; 
@@ -31,7 +31,7 @@ nav ul{
     
 }
 nav ul li{
-    /* border: 1px solid black; */
+    /* border: 1px solid black; 
     display: inline-block; 
     width: 150px;
     vertical-align: top;
@@ -53,14 +53,14 @@ nav ul li a:hover{
     margin-left: 30px;
     background-color: grey;
 
-}
+}*/
 nav ul li ul{
     /*margin-left: 40px;*/
     display: none;
     width: 150px;
     /* height: 70px;  */
 
-}
+}/*
 nav ul li ul li{
     display: block;
 }
@@ -71,4 +71,4 @@ nav ul li ul a{
 
     background-color: brown;
     
-}
+} */
